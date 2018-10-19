@@ -2,10 +2,10 @@
 <widget id="su.simka.mobile" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>СЦ СимКА Safe</name>
     <description>
-        Push sample application that receives push notifications.
+        СЦ СимКА Safe
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="simka18.su@gmail.com" href="https://simka18.su">
+        СЦ СимКА
     </author>
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
